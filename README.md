@@ -1,4 +1,7 @@
-# Restate AI Agents examples
+
+**This repo is outdated. Look at this one instead**: https://github.com/restatedev/ai-examples
+
+# [RETIRED] Restate AI Agents examples
 
 This repository contains examples of how to use Restate for LLM-based / AI Agent use cases.
 
